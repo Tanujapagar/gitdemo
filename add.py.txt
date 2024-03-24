@@ -1,0 +1,4 @@
+py = [4534,87,87,09]
+
+for i in py:
+print (i)
